@@ -1,0 +1,16 @@
+# Euromunten
+
+> Euromunten helpt je euromunten op te zoeken en waardeclaims te controleren, binnenkort voor iPhone.
+
+Zoeken op land, munt en jaar.
+De catalogus bevat 25 landen en 60 bekende bijzondere munten.
+Waarden zijn indicaties uit openbare bronnen met een peildatum, geen garantie op een verkoopprijs.
+Zoeken, fabelcheck, uitslagen met bronnen en deelkaarten zijn gratis.
+Volledige toegang met het verzamelboekje kost eenmalig €14,99, zonder abonnement.
+
+## Pagina's
+
+- [Appoverzicht](../index.html): Uitleg over Euromunten.
+- [Vragen en antwoorden](index.html): Veelgestelde vragen over Euromunten.
+- [Privacy](../privacy.html): Privacyverklaring.
+- [Support](../support.html): Hulp en contact.

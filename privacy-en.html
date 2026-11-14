@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Euromunten Privacy Policy</title>
+<link rel="icon" href="img/icoon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--zwart:#0A0A0A;--goud:#FFC83D;--wit:#FFFFFF;--grijs:#A3A3A3;--lijn:#2A2A2A}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--zwart);color:var(--wit);font-family:"Inter",system-ui,-apple-system,sans-serif;font-size:18px;line-height:1.6;overflow-x:hidden}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:24px 0}
+header a{display:flex;align-items:center;gap:12px;color:var(--wit);text-decoration:none;font-weight:600}
+header img{width:40px;height:40px;border-radius:10px}
+nav{display:flex;flex-wrap:wrap;gap:4px 16px;justify-content:flex-end}
+nav a{color:var(--grijs);font-size:15px;text-decoration:none}
+nav a[aria-current]{color:var(--goud)}
+h1{font-family:"Anton","Impact",sans-serif;font-weight:400;text-transform:uppercase;font-size:clamp(44px,8vw,80px);line-height:.95;margin:32px 0 12px}
+.datum,.intro{color:var(--grijs);margin-bottom:40px}
+.intro{color:var(--wit);font-size:20px}
+h2{font-family:"Anton","Impact",sans-serif;font-weight:400;text-transform:uppercase;font-size:28px;line-height:1.05;color:var(--goud);margin:40px 0 10px;padding-top:24px;border-top:1px solid var(--lijn)}
+p{margin-bottom:14px;color:#E6E6E6}
+a{color:var(--goud)}
+.open{background:var(--goud);color:var(--zwart);font-weight:600;padding:0 4px;border-radius:4px}
+footer{border-top:1px solid var(--lijn);margin-top:56px;padding:24px 0 48px;color:var(--grijs);font-size:15px}
+@media (max-width:420px){.wrap{padding:0 16px}nav{gap:4px 12px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><a href="index.html"><img src="img/icoon.png" alt="">Euromunten</a><nav><a href="support-en.html">Support</a><a href="privacy-en.html" aria-current="page">Privacy</a><a href="privacy.html" lang="nl">Nederlands</a></nav></header>
+<main>
+<h1>Euromunten Privacy Policy</h1>
+<p class="datum">13 November 2026</p>
+<p>Euromunten is an iPhone app for identifying euro coins and keeping track of your collection. Danny Schuurman is the individual developer and the controller responsible for processing personal data. You can contact him at dannyschuurman@gmail.com.</p>
+<h2>No account or tracking</h2>
+<p>You do not need an account. The app has no ads or tracking.</p>
+<h2>Identifying your photo</h2>
+<p>You take a photo or choose an existing one. The app reduces its size and sends it through our own server to Anthropic&#x27;s Claude to identify coins. Everything visible in the photo is included. The server runs on Supabase in the EU. The photo is then transferred to Anthropic in the United States.</p>
+<p>Neither the app nor our server stores the submitted photo. The server holds it only in memory while recognition takes place. An existing photo in your photo library stays there.</p>
+<p>Anthropic retains API data according to its retention policy. It may keep data longer for reasons such as abuse investigations or legal obligations. Under its commercial terms, Anthropic does not use this data to train models.</p>
+<h2>Limiting abuse and costs</h2>
+<p>Our server stores the Apple App Attest app key, its public key and a security counter. If you make a purchase, this also includes Apple&#x27;s original transaction ID. These details and the number of free recognitions per app key are kept for up to one year after last use, then automatically deleted.</p>
+<p>Daily counts per app key, per purchase ID and for the whole server are kept for 30 days. Reservations for an ongoing recognition are kept for at most one day. If an error occurs, the reservation and the associated count are immediately rolled back.</p>
+<p>Temporary security challenges are kept for at most five minutes.</p>
+<p>IP addresses are used only briefly in memory to limit rapid requests, with a ten-minute counting window. They are never stored in the database.</p>
+<p>Our own log lines contain only counts and error types, without photos, IP addresses, app keys or purchase proof. Supabase also keeps standard technical request logs, such as time and IP address, and deletes them automatically after a short time.</p>
+<h2>Your collection and scans</h2>
+<p>Your collection and local scan count are stored only on your iPhone. Deleting the app removes this local data. It does not delete the security data or counters on the server.</p>
+<h2>Payments through Apple</h2>
+<p>Full Access is a one-time purchase through Apple, with no subscription. Apple processes your payment. The server checks Apple&#x27;s signed purchase proof and stores the original transaction ID to enforce scan limits. Danny receives no name or payment details.</p>
+<h2>Anonymous measurement</h2>
+<p>Only with your permission, we anonymously count which steps you use, such as a first scan, viewing a result, viewing an offer or making a purchase. These counts help us improve the app. TelemetryDeck processes this data for us. We collect no photos, coins, names or text through measurement. The data is not linked to you or used to track you. You can turn this off anytime in the app under About the data &gt; Privacy. TelemetryDeck is not yet enabled in the current version.</p>
+<h2>Your rights</h2>
+<p>Recognition and purchase checks are based on performing the service you request. Abuse prevention and cost control are based on legitimate interests. Anonymous measurement requires your consent. You can email dannyschuurman@gmail.com to request access to, correction or deletion of personal data Danny holds about you, or to object to its processing. You can also complain to the Dutch Data Protection Authority, the Autoriteit Persoonsgegevens.</p>
+<h2>Changes</h2>
+<p>If this privacy policy changes, the new date will appear at the top of this page.</p>
+</main>
+<footer>Euromunten · Danny Schuurman</footer>
+</div>
+</body>
+</html>

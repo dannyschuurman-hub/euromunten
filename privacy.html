@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Privacyverklaring Euromunten</title>
+<link rel="icon" href="img/icoon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--zwart:#0A0A0A;--goud:#FFC83D;--wit:#FFFFFF;--grijs:#A3A3A3;--lijn:#2A2A2A}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--zwart);color:var(--wit);font-family:"Inter",system-ui,-apple-system,sans-serif;font-size:18px;line-height:1.6;overflow-x:hidden}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:24px 0}
+header a{display:flex;align-items:center;gap:12px;color:var(--wit);text-decoration:none;font-weight:600}
+header img{width:40px;height:40px;border-radius:10px}
+nav{display:flex;flex-wrap:wrap;gap:4px 16px;justify-content:flex-end}
+nav a{color:var(--grijs);font-size:15px;text-decoration:none}
+nav a[aria-current]{color:var(--goud)}
+h1{font-family:"Anton","Impact",sans-serif;font-weight:400;text-transform:uppercase;font-size:clamp(44px,8vw,80px);line-height:.95;margin:32px 0 12px}
+.datum,.intro{color:var(--grijs);margin-bottom:40px}
+.intro{color:var(--wit);font-size:20px}
+h2{font-family:"Anton","Impact",sans-serif;font-weight:400;text-transform:uppercase;font-size:28px;line-height:1.05;color:var(--goud);margin:40px 0 10px;padding-top:24px;border-top:1px solid var(--lijn)}
+p{margin-bottom:14px;color:#E6E6E6}
+a{color:var(--goud)}
+.open{background:var(--goud);color:var(--zwart);font-weight:600;padding:0 4px;border-radius:4px}
+footer{border-top:1px solid var(--lijn);margin-top:56px;padding:24px 0 48px;color:var(--grijs);font-size:15px}
+@media (max-width:420px){.wrap{padding:0 16px}nav{gap:4px 12px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><a href="index.html"><img src="img/icoon.png" alt="">Euromunten</a><nav><a href="support.html">Support</a><a href="privacy.html" aria-current="page">Privacy</a><a href="privacy-en.html" lang="en">English</a></nav></header>
+<main>
+<h1>Privacyverklaring Euromunten</h1>
+<p class="datum">13 november 2026</p>
+<p>Euromunten is een iPhone-app om euromunten te herkennen en je verzameling bij te houden. Danny Schuurman is de particuliere maker en verantwoordelijk voor de verwerking van persoonsgegevens. Je kunt hem bereiken via dannyschuurman@gmail.com.</p>
+<h2>Geen account of tracking</h2>
+<p>Je hebt geen account nodig. De app heeft geen advertenties of tracking.</p>
+<h2>Je foto herkennen</h2>
+<p>Je maakt een foto of kiest een bestaande foto. De app verkleint die en stuurt hem via onze eigen server naar Claude van Anthropic om munten te herkennen. Alles wat op de foto staat gaat mee. De server draait bij Supabase in de EU. De foto gaat vervolgens naar Anthropic in de Verenigde Staten.</p>
+<p>De app en onze server bewaren de verstuurde foto niet. De server houdt hem alleen in het werkgeheugen zolang de herkenning duurt. Een bestaande foto in je fotobibliotheek blijft daar staan.</p>
+<p>Anthropic bewaart API-gegevens volgens zijn bewaarbeleid. Bij bijvoorbeeld onderzoek naar misbruik of wettelijke verplichtingen kan dat langer zijn. Volgens de zakelijke voorwaarden gebruikt Anthropic deze gegevens niet om modellen te trainen.</p>
+<h2>Misbruik en kosten beperken</h2>
+<p>Onze server bewaart de app-sleutel van Apple App Attest, de publieke sleutel en een beveiligingsteller. Bij een aankoop hoort daar ook het oorspronkelijke transactienummer van Apple bij. Deze gegevens en het aantal gratis herkenningen per app-sleutel worden tot een jaar na het laatste gebruik bewaard en daarna automatisch gewist.</p>
+<p>Dagtellingen per app-sleutel, per aankoopnummer en voor de hele server worden 30 dagen bewaard. Reserveringen voor een lopende herkenning blijven hooguit een dag bewaard. Bij een fout worden de reservering en de bijbehorende telling meteen teruggedraaid.</p>
+<p>Tijdelijke uitdagingen voor de beveiligingscontrole blijven hooguit vijf minuten bewaard.</p>
+<p>IP-adressen worden alleen kort in het werkgeheugen gebruikt om veel verzoeken achter elkaar te remmen, met een telvenster van tien minuten. Ze worden nooit in de database opgeslagen.</p>
+<p>Onze eigen logregels bevatten alleen aantallen en foutsoorten, zonder foto, IP-adres, app-sleutel of aankoopbewijs. Supabase houdt daarnaast standaard technische verzoeklogs bij, zoals tijdstip en IP-adres, en wist die automatisch na korte tijd.</p>
+<h2>Je verzamelboekje en scans</h2>
+<p>Je verzamelboekje en de lokale scantelling staan alleen op je iPhone. Als je de app verwijdert, verdwijnen deze lokale gegevens. De beveiligingsgegevens en tellers op de server verdwijnen daardoor niet.</p>
+<h2>Betalen via Apple</h2>
+<p>Volledige toegang koop je eenmalig via Apple. Het is geen abonnement. Apple verwerkt je betaling. De server controleert het ondertekende aankoopbewijs van Apple en bewaart het oorspronkelijke transactienummer voor de scanlimieten. Danny ontvangt geen naam of betaalgegevens.</p>
+<h2>Anoniem meten</h2>
+<p>Alleen met jouw toestemming tellen we anoniem welke stappen je gebruikt, zoals een eerste scan, een uitslag bekijken, een aanbod bekijken of een aankoop. Zo helpen de cijfers ons de app beter te maken. TelemetryDeck verwerkt deze gegevens voor ons. We meten geen foto&#x27;s, munten, namen of tekst. De gegevens zijn niet aan jou gekoppeld en worden niet gebruikt om je te volgen. Je kunt dit altijd uitzetten in de app via Over de gegevens &gt; Privacy. In de huidige versie staat TelemetryDeck nog niet aan.</p>
+<h2>Je rechten</h2>
+<p>Voor herkenning en aankoopcontrole is de grondslag uitvoering van de dienst die je zelf start. Voor misbruikpreventie en kostenbeheersing is dat gerechtvaardigd belang. Anoniem meten gebeurt alleen met je toestemming. Via dannyschuurman@gmail.com kun je vragen om inzage, correctie of verwijdering van persoonsgegevens die Danny van je heeft, of bezwaar maken. Je kunt ook een klacht indienen bij de Autoriteit Persoonsgegevens.</p>
+<h2>Wijzigingen</h2>
+<p>Als deze privacyverklaring verandert, staat de nieuwe datum bovenaan deze pagina.</p>
+</main>
+<footer>Euromunten · Danny Schuurman</footer>
+</div>
+</body>
+</html>
