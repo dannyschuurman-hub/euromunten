@@ -1,0 +1,17 @@
+# Euroreveal
+
+> Check je munt op land, waarde en jaar. De meeste munten zijn gewoon €2. De app geeft een indicatie met bron en peildatum voor munten die mogelijk meer waard zijn.
+
+## Pages
+
+- [Euroreveal (Nederlands)](https://euroreveal.nl/)
+- [Euroreveal (English)](https://euroreveal.nl/en/)
+- [Privacy (NL)](https://euroreveal.nl/privacy.html)
+- [Privacy (EN)](https://euroreveal.nl/privacy-en.html)
+- [Support (NL)](https://euroreveal.nl/support.html)
+- [Support (EN)](https://euroreveal.nl/support-en.html)
+- [Vragen (NL)](https://euroreveal.nl/vragen/)
+
+## Context
+
+Searching uses country, denomination and year. Values are indications with a source and date, without a guarantee or advice. This teaser makes no claim about photo recognition. The existing support and privacy pages are preserved verbatim. Consult those pages for their full wording.
