@@ -52,3 +52,30 @@ html:not(.js) .hero,html:not(.js) .film,html:not(.js) .pan{height:auto}html:not(
 /* 16-11 Claude: de duik gaat het echte beginscherm in (scherm van de telefoon in near-nl/en). */
 .camera{transform-origin:61.5% 65%}
 @media(max-width:820px){.camera{transform-origin:52.6% 69%}}
+
+/* 23-11: App Store-badge, de app is live */
+.appstore{display:inline-block;line-height:0;text-decoration:none}
+.appstore img{display:block;height:auto}
+.nav-store{position:absolute;top:30px;right:104px;z-index:12}
+.nav-store img{height:42px;width:auto}
+.hero-bottom{grid-template-columns:auto 1fr;right:auto;width:min(560px,46vw);gap:14px 22px;align-items:center}
+.hero-bottom p{grid-column:1/-1;grid-row:1}
+.hero-bottom .hero-store{grid-column:1;grid-row:2;justify-self:start;margin:0}
+.hero-bottom .hero-store img{height:54px;width:auto}
+.hero-bottom .round-link{grid-column:2;grid-row:2;justify-self:start}
+.hero-bottom small{grid-column:1/-1;grid-row:3}
+.finale-store{margin:40px 0 30px}
+.finale-store img{height:68px;width:auto}
+.price-number{letter-spacing:.01em}
+.footer nav a{min-height:44px;display:inline-flex;align-items:center}
+@media(max-width:820px){
+ .nav-store{display:none}
+ .hero-bottom{top:43%;bottom:auto;left:24px;right:24px;width:auto;gap:12px 18px}
+ .hero-bottom p{grid-column:1/-1;grid-row:1;max-width:none;font-size:14px}
+ .hero-bottom .hero-store{grid-column:1;grid-row:2;justify-self:start;margin:0}
+ .hero-bottom .hero-store img{height:46px}
+ .hero-bottom .round-link{grid-column:2;grid-row:2;justify-self:start}
+ .hero-bottom small{display:none}
+ .finale-store img{height:56px}
+}
+}

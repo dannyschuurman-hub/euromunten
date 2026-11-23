@@ -1,12 +1,12 @@
 # Euroreveal
 
-> Euroreveal helpt je euromunten op te zoeken en waardeclaims te controleren, binnenkort voor iPhone.
+> Euroreveal helpt je euromunten op te zoeken en waardeclaims te controleren, nu in de App Store voor iPhone.
 
 Zoeken op land, munt en jaar.
 De catalogus bevat 25 landen en 60 bekende bijzondere munten.
 Waarden zijn indicaties uit openbare bronnen met een peildatum, geen garantie op een verkoopprijs.
 Zoeken, fabelcheck, uitslagen met bronnen en deelkaarten zijn gratis.
-Volledige toegang met het verzamelboekje kost eenmalig €14,99, zonder abonnement.
+De app is gratis te downloaden. Volledige toegang met het verzamelboekje is een eenmalige aankoop, zonder abonnement.
 
 ## Pagina's
 

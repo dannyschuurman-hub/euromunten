@@ -44,13 +44,13 @@ window.krasFrame = function (tick) {
     if(motion.matches){const rp=$(".rings-panel");rp.inert=false;rp.style.pointerEvents="";paintScratch(14);return;}
     const h=progress(hero),f=progress(film),p=progress(pan);
     const dive=segment(h,.42,1);
-    $('.camera').style.transform=`scale(${1+dive*2.8}) translateY(${-dive*13}%)`;
+    $('.camera').style.transform=`scale(${1+dive*.06}) translateY(${-dive*3}%)`;
     $('.hero-word').style.transform=`translateY(${h*300}px)`;
     $('.hero-word').style.opacity=1-segment(h,.24,.62);
     $('.near').style.transform=`translateY(${-h*8}%) scale(${1+h*.18})`;
     $('.far').style.transform=`translateY(${-h*3}%)`;
     $('.hero-bottom').style.opacity=1-segment(h,0,.27);
-    $('.dive-shade').style.opacity=segment(h,.76,1);
+    $('.dive-shade').style.opacity=segment(h,.5,.92);
     const phase=f<.23?0:f<.44?1:f<.65?2:f<.92?3:4;
     film.dataset.phase=phase;
     $$('.beat').forEach((el,i)=>el.classList.toggle('active',i===phase));

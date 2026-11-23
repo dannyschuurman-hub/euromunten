@@ -1,10 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://euroreveal.nl/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/"/></url>
-  <url><loc>https://euroreveal.nl/en/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/"/></url>
-  <url><loc>https://euroreveal.nl/privacy.html</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html"/></url>
-  <url><loc>https://euroreveal.nl/privacy-en.html</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html"/></url>
-  <url><loc>https://euroreveal.nl/support.html</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html"/></url>
-  <url><loc>https://euroreveal.nl/support-en.html</loc><xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html"/><xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html"/></url>
-  <url><loc>https://euroreveal.nl/vragen/</loc></url>
+  <url>
+    <loc>https://euroreveal.nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/privacy-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/support-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/vragen/</loc>
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/onderwerp/waardevolle-munten/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/waardevolle-munten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/valuable-coins/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/waardevolle-munten/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/topic/valuable-coins/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/waardevolle-munten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/valuable-coins/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/waardevolle-munten/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/onderwerp/fouten-en-bijzonderheden/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/fouten-en-bijzonderheden/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/errors-and-oddities/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/fouten-en-bijzonderheden/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/topic/errors-and-oddities/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/fouten-en-bijzonderheden/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/errors-and-oddities/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/fouten-en-bijzonderheden/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/onderwerp/landen-herkennen/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/landen-herkennen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/spotting-the-country/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/landen-herkennen/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/topic/spotting-the-country/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/landen-herkennen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/spotting-the-country/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/landen-herkennen/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/onderwerp/fabels-en-feiten/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/fabels-en-feiten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/myths-and-facts/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/fabels-en-feiten/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/topic/myths-and-facts/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/fabels-en-feiten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/myths-and-facts/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/fabels-en-feiten/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/onderwerp/waarde-bepalen/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/working-out-the-value/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/topic/working-out-the-value/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/working-out-the-value/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/which-2-euro-coins-are-worth-money/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/which-2-euro-coins-are-worth-money/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/which-2-euro-coins-are-worth-money/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/" />
+  </url>
 </urlset>

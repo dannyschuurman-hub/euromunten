@@ -15,3 +15,15 @@
 ## Context
 
 Searching uses country, denomination and year. Values are indications with a source and date, without a guarantee or advice. This teaser makes no claim about photo recognition. The existing support and privacy pages are preserved verbatim. Consult those pages for their full wording.
+
+<!-- Euroreveal magazine -->
+
+## Magazine (Nederlands)
+
+- [Euroreveal Magazine](https://euroreveal.nl/blog/)
+- [Welke 2 euromunten zijn veel waard?](https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/)
+
+## Magazine (English)
+
+- [Euroreveal Magazine](https://euroreveal.nl/en/blog/)
+- [Which 2 euro coins are worth money?](https://euroreveal.nl/en/blog/which-2-euro-coins-are-worth-money/)
