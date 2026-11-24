@@ -135,3 +135,4 @@ html:not(.js) .hero,html:not(.js) .film,html:not(.js) .pan{height:auto}html:not(
 @media(max-width:820px){.myth-copy h2{font-size:8.2vw}.home .eyebrow,.finale .eyebrow{font-size:14px}}
 .myth-copy h2{font-size:clamp(44px,5.2vw,84px)}
 @media(max-width:820px){.myth-copy h2{font-size:9vw}}
+@media(max-width:820px){.hero-word h1{font-size:clamp(50px,13.5vw,110px)}}
