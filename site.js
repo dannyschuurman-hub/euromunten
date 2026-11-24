@@ -28,7 +28,7 @@ window.krasFrame = function (tick) {
     let tick=0;paintScratch(0);
     $('.value-block').classList.add('scratching');
     if(motion.matches) { paintScratch(14);return; }
-    timer=setInterval(()=>{paintScratch(++tick);if(tick===14){clearInterval(timer);timer=null;$('.value-block').classList.remove('scratching');$$('[data-scratch]').forEach(b=>b.firstChild.textContent=b.dataset.replay+' ');}},64);
+    timer=setInterval(()=>{paintScratch(++tick);if(tick===14){clearInterval(timer);timer=null;$('.value-block').classList.remove('scratching');$('.value-block').classList.remove('landed');void $('.value-block').offsetWidth;$('.value-block').classList.add('landed');$$('[data-scratch]').forEach(b=>b.firstChild.textContent=b.dataset.replay+' ');}},64);
   }
   $$('[data-scratch]').forEach(b=>b.addEventListener('click',krasOpen));
   $$('[data-open]').forEach(b=>b.addEventListener('click',()=>{if(motion.matches){krasOpen();return;}const top=film.offsetTop+(film.offsetHeight-innerHeight)*.78;window.scrollTo({top,behavior:'smooth'});krasOpen();}));
