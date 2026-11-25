@@ -13,28 +13,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/" />
   </url>
   <url>
-    <loc>https://euroreveal.nl/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html" />
+    <loc>https://euroreveal.nl/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy" />
   </url>
   <url>
-    <loc>https://euroreveal.nl/privacy-en.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy.html" />
+    <loc>https://euroreveal.nl/privacy-en</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/privacy-en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/privacy" />
   </url>
   <url>
-    <loc>https://euroreveal.nl/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html" />
+    <loc>https://euroreveal.nl/support</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support" />
   </url>
   <url>
-    <loc>https://euroreveal.nl/support-en.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support.html" />
+    <loc>https://euroreveal.nl/support-en</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/support" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/support-en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/support" />
   </url>
   <url>
     <loc>https://euroreveal.nl/vragen/</loc>
@@ -110,6 +110,34 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/topic/working-out-the-value/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/onderwerp/waarde-bepalen/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/wat-is-de-italiaanse-1-cent-uit-2002-met-de-mole-waard/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/wat-is-de-italiaanse-1-cent-uit-2002-met-de-mole-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/what-is-the-italian-2002-mole-one-cent-coin-worth/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/wat-is-de-italiaanse-1-cent-uit-2002-met-de-mole-waard/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/what-is-the-italian-2002-mole-one-cent-coin-worth/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/wat-is-de-italiaanse-1-cent-uit-2002-met-de-mole-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/what-is-the-italian-2002-mole-one-cent-coin-worth/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/wat-is-de-italiaanse-1-cent-uit-2002-met-de-mole-waard/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/blog/is-de-grace-kelly-2-euromunt-van-monaco-echt-zoveel-waard/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/is-de-grace-kelly-2-euromunt-van-monaco-echt-zoveel-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/is-monacos-grace-kelly-2-euro-coin-really-that-valuable/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/is-de-grace-kelly-2-euromunt-van-monaco-echt-zoveel-waard/" />
+  </url>
+  <url>
+    <loc>https://euroreveal.nl/en/blog/is-monacos-grace-kelly-2-euro-coin-really-that-valuable/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://euroreveal.nl/blog/is-de-grace-kelly-2-euromunt-van-monaco-echt-zoveel-waard/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://euroreveal.nl/en/blog/is-monacos-grace-kelly-2-euro-coin-really-that-valuable/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://euroreveal.nl/blog/is-de-grace-kelly-2-euromunt-van-monaco-echt-zoveel-waard/" />
   </url>
   <url>
     <loc>https://euroreveal.nl/blog/welke-2-euromunten-zijn-veel-waard/</loc>
